@@ -19,3 +19,11 @@ node --test
 ```
 
 Test memeriksa perhitungan total pesanan, diskon, ongkos kirim, pembulatan, dan input tidak valid.
+
+---
+
+## Project Governance
+
+[![CI](https://github.com/aryafatthurahman4-collab/pengujian-unit-latihan-soal/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/pengujian-unit-latihan-soal/actions/workflows/ci.yml)
+
+[Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
