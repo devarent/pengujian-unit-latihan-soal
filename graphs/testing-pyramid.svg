@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="390" viewBox="0 0 800 390">
+  <rect width="800" height="390" rx="18" fill="#f5f8fc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="42" font-size="23" font-weight="700" fill="#0f172a">Piramida pengujian perangkat lunak</text>
+    <path d="M400 82 L465 170 H335 Z" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+    <path d="M335 176 H465 L535 264 H265 Z" fill="#fde68a" stroke="#d97706" stroke-width="2"/>
+    <path d="M260 270 H540 L610 355 H190 Z" fill="#bbf7d0" stroke="#16a34a" stroke-width="2"/>
+    <text x="400" y="143" font-size="16" font-weight="700" fill="#7f1d1d">End-to-end</text>
+    <text x="400" y="225" font-size="17" font-weight="700" fill="#78350f">Integrasi</text>
+    <text x="400" y="321" font-size="18" font-weight="700" fill="#14532d">Unit test</text>
+    <text x="630" y="117" font-size="14" fill="#334155">Lebih sedikit</text>
+    <text x="630" y="139" font-size="14" fill="#334155">lebih lambat</text>
+    <text x="630" y="294" font-size="14" fill="#334155">Lebih banyak</text>
+    <text x="630" y="316" font-size="14" fill="#334155">lebih cepat</text>
+    <path d="M604 150 V260" stroke="#64748b" stroke-width="2"/>
+    <path d="M604 150 l-5 10 h10 z M604 260 l-5 -10 h10 z" fill="#64748b"/>
+    <text x="400" y="378" font-size="13" fill="#475569">Lapisan bawah cepat dan terfokus; lapisan atas memeriksa perilaku antarbagian.</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "name": "pengujian-unit-latihan-soal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Materi dan contoh unit testing JavaScript menggunakan node:test",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
