@@ -24,7 +24,7 @@ Test memeriksa perhitungan total pesanan, diskon, ongkos kirim, pembulatan, dan 
 
 ## Project Governance
 
-[![CI](https://github.com/aryafatthurahman4-collab/pengujian-unit-latihan-soal/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/pengujian-unit-latihan-soal/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/pengujian-unit-latihan-soal/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/pengujian-unit-latihan-soal/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
