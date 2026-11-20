@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# unit-testing-practice
+
+<sub>Latihan soal dan pengujian unit untuk praktik pengembangan perangkat lunak.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | unit-testing-practice |
+| Primary language | JavaScript |
+| Topics | javascript, nodejs, practice, quality-assurance, testing, unit-testing |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+unit-testing-practice is a hands-on repository focused on: Latihan soal dan pengujian unit untuk praktik pengembangan perangkat lunak.. Primary language: JavaScript. Topics: javascript, nodejs, practice, quality-assurance, testing, unit-testing. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
