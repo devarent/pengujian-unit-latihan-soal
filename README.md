@@ -36,7 +36,7 @@ unit-testing-practice is a hands-on repository focused on: Latihan soal dan peng
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/pengujian-unit-latihan-soal-1f6feb?style=for-the-badge" alt="pengujian-unit-latihan-soal" />
+<img src="https://img.shields.io/badge/unit-testing-practice-1f6feb?style=for-the-badge" alt="unit-testing-practice" />
 <img src="https://img.shields.io/badge/LANG%20JavaScript-3178c6?style=for-the-badge" alt="LANG JavaScript" />
 <img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
 <img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
@@ -81,7 +81,7 @@ Test memeriksa perhitungan total pesanan, diskon, ongkos kirim, pembulatan, dan 
 
 ## Project Governance
 
-[![CI](https://github.com/devarent/pengujian-unit-latihan-soal/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/pengujian-unit-latihan-soal/actions/workflows/ci.yml)
+[![CI](https://github.com/devarent/unit-testing-practice/actions/workflows/ci.yml/badge.svg)](https://github.com/devarent/unit-testing-practice/actions/workflows/ci.yml)
 
 [Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
 
